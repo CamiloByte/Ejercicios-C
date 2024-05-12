@@ -1,0 +1,16 @@
+#include<iostream.h>
+#include<conio.h>
+int main (){
+    int a, l;
+    a=0;
+    
+    for (int i=1; i<=10; i++)
+{
+    a=i+a;
+    cout<<"\n suma: "<<a;
+}
+l=a/10;
+cout<<"\n promedio: "<<l;
+    getch ();
+
+}
