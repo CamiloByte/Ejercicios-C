@@ -1,11 +1,17 @@
-Ejercicios en C++
-Este repositorio contiene una colección de ejercicios resueltos en C++ para practicar y mejorar tus habilidades de programación en este lenguaje.
+# Ejercicios en C++
 
-Carpetas
-Ejercicios básicos: Aquí encontrarás ejercicios simples diseñados para principiantes que cubren los conceptos fundamentales de la programación en C++.
+Este repositorio contiene una colección de ejercicios en C++. Los ejercicios están organizados en diferentes carpetas según el tipo de conceptos que se exploran.
 
-Matriz: Esta carpeta contiene ejercicios relacionados con el manejo de matrices (arrays multidimensionales) en C++.
+## Contenido
 
-POO (Programación Orientada a Objetos): En esta sección, encontrarás ejercicios centrados en los principios y prácticas de la programación orientada a objetos en C++.
+El repositorio se divide en las siguientes carpetas:
 
-Vectores: Aquí se encuentran ejercicios que abordan el manejo de vectores (arrays unidimensionales) en C++, incluyendo operaciones básicas y algoritmos.
+1. **Ejercicios básicos**: Esta carpeta contiene ejercicios de programación básica en C++. 
+
+2. **Matriz**: Esta carpeta contiene ejercicios relacionados con el manejo de matrices (arrays multidimensionales) en C++.
+
+3. **POO (Programación Orientada a Objetos)**: En esta sección, encontrarás ejercicios centrados en los principios y prácticas de la programación orientada a objetos en C++.
+
+4. **Vectores**: Aquí se encuentran ejercicios que abordan el manejo de vectores (arrays unidimensionales) en C++, incluyendo operaciones básicas y algoritmos.
+
+
